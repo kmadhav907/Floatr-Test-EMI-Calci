@@ -1,3 +1,9 @@
+### DEMO
+<a href="https://emi-calci-2cc8a.web.app/"> Click here </a>
+
+### Please do check the mobile UI only, desktop UI has not been yet completed
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
